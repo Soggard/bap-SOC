@@ -1,0 +1,24 @@
+.slides {
+    padding: 0;
+    height: 100vh;
+    overflow: hidden;
+
+}
+/*.slides.green {
+    margin-bottom: 400px
+}*/
+.blue{
+    background-color: blue;
+}
+.turqoise{
+    background-color: turquoise;
+}
+.green{
+    background-color: green;
+}
+.bordeaux{
+    background-color: darkred;
+}
+img{
+    width: 100vw;
+}
