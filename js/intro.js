@@ -1,3 +1,3 @@
-/**
- * Created by Vasach on 20/12/2016.
- */
+$(function () { // wait for document ready
+
+});

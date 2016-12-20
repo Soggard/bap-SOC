@@ -13,15 +13,16 @@
     <div class="row">
         <!--INTRO-->
         <div class="slides  col-md-12">
+            <?php include_once 'img/intro.php'?>
         </div>
         <!--L'avant (représente l'ancien service)-->
-        <div class="slides  col-md-12">
+        <div class="slides blue col-md-12">
         </div>
         <!--Décollage fusée de l'écran-->
-        <div class="slides  col-md-12">
+        <div class="slides  green col-md-12">
         </div>
         <!--Fusée dans l'espace-->
-        <div class="slides  col-md-12">
+        <div class="slides bordeaux col-md-12">
         </div>
         <!--arrivée base spatiale-->
         <div class="slides  col-md-12">
