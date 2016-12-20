@@ -1,3 +1,8 @@
+
+    
+    
+
+
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1343 796.25">
     <defs>
         <radialGradient id="radial-gradient" cx="588.9" cy="289.96" r="80.18" gradientUnits="userSpaceOnUse">
@@ -1853,3 +1858,10 @@
         </g>
     </g>
 </svg>
+
+<h1>Test</h1>
+
+<script src="../js/main.js"></script>
+<button onclick="myFunction()">Try it</button>
+ 
+

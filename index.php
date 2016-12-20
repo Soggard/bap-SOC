@@ -44,7 +44,8 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/animation.gsap.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/debug.addIndicators.min.js"></script>
 
-<script src="js/main.js">
-</script>
+<script src="js/main.js"></script>
+<script src="js/intro.js"></script>
+
 </body>
 </html>
