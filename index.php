@@ -13,14 +13,13 @@
     <div class="row">
         <!--INTRO-->
         <div class="slides  col-md-12">
-            <?php include_once 'img/intro.php'?>
+
         </div>
         <!--L'avant (représente l'ancien service)-->
         <div class="slides blue col-md-12">
         </div>
         <!--Décollage fusée de l'écran-->
         <div class="slides  green col-md-12">
-            <?php include_once 'img/decollage.php'?>
         </div>
         <!--Fusée dans l'espace-->
         <div class="slides bordeaux col-md-12">
@@ -45,7 +44,6 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/debug.addIndicators.min.js"></script>
 
 <script src="js/main.js"></script>
-<script src="js/intro.js"></script>
 
 </body>
 </html>
