@@ -1,7 +1,7 @@
 .slides {
     padding: 0;
     height: 100vh;
-    overflow: hidden;
+
 
 }
 /*.slides.green {
@@ -19,6 +19,7 @@
 .bordeaux{
     background-color: darkred;
 }
-img{
-    width: 100vw;
+svg{
+    width: 99.1vw;
+    height: auto;
 }
