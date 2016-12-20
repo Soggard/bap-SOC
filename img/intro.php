@@ -1,7 +1,7 @@
 
     
     
-
+<div id="svg-wrapper">
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1343 796.25">
     <defs>
@@ -1858,10 +1858,10 @@
         </g>
     </g>
 </svg>
+</div>
 
-<h1>Test</h1>
 
 <script src="../js/main.js"></script>
-<button onclick="myFunction()">Try it</button>
+
  
 
