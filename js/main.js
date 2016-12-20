@@ -32,4 +32,10 @@ $(function () { // wait for document ready
         .setTween(test)
         .addIndicators
         .addTo(controller);*/
+    
+    
+console.log('test');
+    
+    
+
 });
