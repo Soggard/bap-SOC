@@ -1,12 +1,13 @@
+/*
 .slides {
     padding: 0;
     height: 100vh;
 
 
 }
-/*.slides.green {
+!*.slides.green {
     margin-bottom: 400px
-}*/
+}*!
 .blue{
     background-color: blue;
 }
@@ -22,4 +23,39 @@
 svg{
     width: 99.1vw;
     height: auto;
+}*/
+.slides {
+    padding: 0;
+    height: 100vh;
+
+
+}
+/*.slides.green {
+    margin-bottom: 400px
+}*/
+.blue{
+    margin-top: 25%;
+    background-color: blue;
+}
+.turqoise{
+    background-color: turquoise;
+}
+.green{
+    background-color: green;
+}
+.bordeaux{
+    background-color: darkred;
+}
+svg{
+    width: 99.1vw;
+    height: auto;
+}
+
+.titles-wrapper{
+    padding-bottom: 600px;
+    position: absolute;
+}
+h1{color: #f2f2f2;
+}
+h2{color: #f2f2f2;
 }
