@@ -12,8 +12,8 @@
 <div class="container-fluid">
     <div class="row">
         <!--INTRO-->
-        <div class="slides  col-md-12">
-            <?php include_once 'img/intro.php'?>
+        <div class="slides  green col-md-12">
+
         </div>
         <!--L'avant (représente l'ancien service)-->
         <div class="slides blue col-md-12">
